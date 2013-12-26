@@ -13,7 +13,7 @@ body, html {
     height:100%;
     position:relative;
 }
-.section{
+section{
     position: relative;
 	-webkit-box-sizing: border-box; 
     -moz-box-sizing: border-box; 
@@ -35,7 +35,7 @@ body, html {
     -o-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
-.section.table,
+section.table,
 .slide.table{
 	display:table;
 	width:100%;
